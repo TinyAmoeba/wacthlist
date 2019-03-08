@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycahce__
+.DS_Store
+.en
+*.db

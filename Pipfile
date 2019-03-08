@@ -8,8 +8,8 @@ pylint = "*"
 
 [packages]
 flask = "*"
-python-detenv = "*"
 python-dotenv = "*"
+flask-sqlalchemy = "*"
 
 [requires]
 python_version = "3.5"
