@@ -5,11 +5,13 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+coverage = "*"
 
 [packages]
 flask = "*"
 python-dotenv = "*"
 flask-sqlalchemy = "*"
+flask-login = "*"
 
 [requires]
 python_version = "3.5"
